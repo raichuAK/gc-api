@@ -1,0 +1,5 @@
+node_modules
+data
+README.md
+docker-compose.yaml
+build.sh
